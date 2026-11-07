@@ -1,0 +1,7 @@
+[project]
+name = "tajweed-py-madd-duration-calc"
+version = "1.0.0"
+description = "Quranic Madd Vowel Elongation Duration Calculator (حاسبة مقادير المدود الطبيعية والفرعية واللازمة بالحركات)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
